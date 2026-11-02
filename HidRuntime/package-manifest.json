@@ -1,0 +1,20 @@
+{
+  "viiperVersion": "0.9.0",
+  "sources": [
+    "https://github.com/Alia5/VIIPER/releases/tag/v0.9.0",
+    "https://github.com/vadimgrn/usbip-win2/releases/tag/v.0.9.8.1"
+  ],
+  "files": {
+    "USBip-0.9.8.1-x64.exe": {
+      "signer": "E=itsec@scheibling.se, CN=Cloudyne Systems (Scheibling Consulting AB), O=Cloudyne Systems (Scheibling Consulting AB), STREET=Fyrislundsgatan 29 a, L=Uppsala, S=Uppsala, C=SE, OID.1.3.6.1.4.1.311.60.2.1.3=SE, SERIALNUMBER=559171-6567, OID.2.5.4.15=Private Organization",
+      "sha256": "38CAD6D4432B52D5BB9409D9AD03B72FDFFC4ADA4CD3A48FBECA1A2752A8518A",
+      "signature": "Valid"
+    },
+    "viiper.exe": {
+      "signer": "CN=Peter Repukat, O=Peter Repukat, L=Regensburg, S=Bayern, C=DE",
+      "sha256": "142C144F6ABEE8B8A5F6A1ABBC7018683444DE71D2E45102CDE6AAAB9B2223E6",
+      "signature": "Valid"
+    }
+  },
+  "usbipVersion": "0.9.8.1"
+}

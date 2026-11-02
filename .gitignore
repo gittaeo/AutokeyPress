@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+dist/
+.dotnet-home/
+settings.json
+*.pdb
+driver-install.log
+installation-result.json
+connection-check.json
+
